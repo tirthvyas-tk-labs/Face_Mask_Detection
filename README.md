@@ -5,6 +5,7 @@
 ## Keras (Deep Neural Networks)
 ## OpenCV
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/40208647/94337827-0f85cf80-000b-11eb-9f26-8a21a517c2ac.gif)
+![Untitled-online-video-cuttercom](https://user-images.githubusercontent.com/40208647/94337892-84f1a000-000b-11eb-808d-a3498cbc3dd3.gif)
+
 
 
