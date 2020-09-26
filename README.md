@@ -2,5 +2,5 @@
 # Face Mask Detection
 
 ## Tools and Tecnology used
-## Using Keras (Deep Neural Networks)
-## Open CV
+## Keras (Deep Neural Networks)
+## OpenCV
