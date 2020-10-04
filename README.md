@@ -12,9 +12,9 @@
 
 # Inspried by the works of,
 
-[Adrian Rosebrock] (https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+[Adrian Rosebrock](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 
-[SentDex] (https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/)
+[SentDex](https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/)
 
 
 
